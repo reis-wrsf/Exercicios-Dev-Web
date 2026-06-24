@@ -10,4 +10,4 @@ Acredito que a consistência e a prática diária são as chaves para a excelên
 * **Lógica e Algoritmos:** Resolução de problemas, estruturas de repetição e manipulação de arrays.
   
 ## 📁 Sumário dos Exercícios
-* **[01. Lista de Tarefas (To-Do List)](./01-lista-de-tarefas)** - Manipulação de DOM, eventos em JS e estilização condicional.
+* **[01. Lista de Tarefas (To-Do List)](./01-lista-de-tarefas(to-do-list))** - Manipulação de DOM, eventos em JS e estilização condicional.
